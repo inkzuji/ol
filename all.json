@@ -1,4 +1,24 @@
-{"urls": [{"name": "OK公开", "url": "https://raw.githubusercontent.com/inkzuji/ol/main/OK公开.json"},
-          {"name": "OK内部", "url": "https://raw.githubusercontent.com/inkzuji/ol/main/OK内部.json"},
-          {"name": "牛二(凯速)", "url": "https://raw.githubusercontent.com/inkzuji/ol/main/牛二(凯速).json"},
-          {"name": "饭太硬", "url": "https://raw.githubusercontent.com/inkzuji/ol/main/饭太硬.json"}]}
+{
+    "urls": [
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK公开"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+            "name": "牛二(常规top)"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://ok321.top/ok",
+            "name": "OK内部"
+        },
+        {
+            "url": "https://9280.kstore.space/wex.json",
+            "name": "牛二(凯速)"
+        }
+    ]
+}
